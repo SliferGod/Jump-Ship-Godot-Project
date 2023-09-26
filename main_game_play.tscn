@@ -21,5 +21,3 @@ shape = SubResource("RectangleShape2D_btlau")
 
 [node name="Sprite2D" type="Sprite2D" parent="Player"]
 texture = ExtResource("1_g1tsa")
-
-[node name="Node2D" type="Node2D" parent="."]
